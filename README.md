@@ -47,3 +47,6 @@ Logs attendance with timestamps into CSV files.
 Provides audio feedback using the pywin32 library.
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/manishsinghaj/Real-time-Face-Recognition-and-Attendance-System/blob/main/bgimage.png?raw=true)
