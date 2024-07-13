@@ -49,4 +49,8 @@ Provides audio feedback using the pywin32 library.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/manishsinghaj/Real-time-Face-Recognition-and-Attendance-System/blob/main/bgimage.png?raw=true)
+
+## Screenshots
+
+![App Screenshot](https://github.com/manishsinghaj/Real-time-Face-Recognition-and-Attendance-System/blob/main/bf092e36-c0b8-4b3e-9535-f91ef4153f41.jpg?raw=true)
+
